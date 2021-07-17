@@ -3,3 +3,5 @@ Emoji
 type
 colors
 vibrant
+Darkmode
+video calls
