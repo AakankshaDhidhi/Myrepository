@@ -1,0 +1,5 @@
+Requirements of chat application
+Emoji
+type
+colors
+vibrant
